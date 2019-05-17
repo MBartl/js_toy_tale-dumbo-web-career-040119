@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Ajit The Terrible",
+      "image": "https://www.newsindiatimes.com/wp-content/uploads/2017/04/Ajit-Pai.jpg",
+      "likes": -9001,
+      "id": 9
     }
   ]
 }
